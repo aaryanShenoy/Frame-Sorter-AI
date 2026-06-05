@@ -1,4 +1,4 @@
-# [Cool FrameSorter AI]
+# [FrameSorter AI]
 
 <!-- 
 Add logo image for project here later
