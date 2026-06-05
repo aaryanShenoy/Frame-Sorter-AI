@@ -15,7 +15,7 @@ A lightweight, computer vision tool that allows you to do 2 cool things:
 
 Extra highlights of the tool:
 
-- Uses semi-supervised pipeline, utilising image embeddings from resnet18 to output high quality image embeddings to feed a custom made logistic regression classifier
+- Uses semi-supervised pipeline, utilising image embeddings from resnet18 to output high quality image embeddings to feed a custom Pytorch logistic regression classifier
 - Only requires manually sorting around 100 sample frames (for a video with approx 10k frames), the model can then handle the remaining thousands with very high accuracy
 - (Note) This tool only works well if you have 2 distinct angles/views/parts to your footage that you are separating
 
