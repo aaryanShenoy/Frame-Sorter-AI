@@ -1,8 +1,11 @@
-# [FrameSorter AI]
+# [Frame-Sorter-AI]
 
 <!-- 
 Add logo image for project here later
 -->
+
+<img width="1000" height="250" alt="FRAME-SORTER-AI" src="https://github.com/user-attachments/assets/e1261b8b-3cfc-4b40-be45-56e99eaeeb84" />
+
 
 ## Semi-Supervised Footage Separator Tool (Binary)
 A lightweight, computer vision tool that allows you to do 2 cool things:
