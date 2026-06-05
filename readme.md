@@ -30,7 +30,7 @@ Extra highlights of the tool:
 ### File Structure Overview 
 - `built_models.py` - Contains the Pytorch Neural Network and custom dataset classes
 - `training_data_setup.py` - Acts as a helper script to extract the initial sample frames from training video (for user to manually sort)
-- `train.py` - Trains the classifier on the manually sorted sample frames
+- `train.py` - Trains the classifier on the manually sorted sample frames and outputs accuracy, precision and recall stats
 - `inference.py` - Processes the entire video (of the user's choice) and separates the output into 2 folders
 
 
