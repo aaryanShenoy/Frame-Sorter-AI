@@ -1,0 +1,18 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.env
+.venv
+venv/
+
+# Project specific
+*.mp4
+*.avi
+*.mov
+sampleFramesFolder/
+separatedFrame_*/
+
+# Model weights
+*.pth
